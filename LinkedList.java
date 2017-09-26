@@ -107,4 +107,5 @@ class LinkList{
         System.out.println("Hello " + list.deleteatBeg()+ " Hello ");
         list.printList();
     }
+	  
 }
