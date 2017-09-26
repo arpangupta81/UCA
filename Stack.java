@@ -63,5 +63,4 @@ public class stacks {
 		s.pop();
 		System.out.println("Empty = "+ s.isEmpty());
 	}
-
 }
